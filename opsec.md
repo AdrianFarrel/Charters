@@ -42,6 +42,6 @@ The OPSEC WG will not serve as a venue for raw threat intelligence sharing or re
 | July 2027 | WG Adoption of "Best Practices for Coordinated Vulnerability Disclosure Processes" document  |               | tbc       |
 | July 2027 | WG Adoption of "A Taxonomy of Emerging Threats" document |               | tbc       |
 | March 2029 | Submission of "Security Operations Fundamentals and Guidance" document to the IESG for publication |               | tbc       |
-| July 2029 | Submission of Best Practices for Coordinated Vulnerability Disclosure Processes to the IESG for publication.  |               | tbc       |
+| July 2028 | Submission of "Best Practices for Coordinated Vulnerability Disclosure Processes" document to the IESG for publication.  |               | tbc       |
 | July 2029 | Submission of Taxonomy of emerging threats document to the IESG for publication. |               | tbc       |
 
