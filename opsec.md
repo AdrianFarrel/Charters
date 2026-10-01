@@ -5,11 +5,11 @@ liabilities inherent in security practices where they exist.
 
 ## Scope
 
-The scope of the OPSEC WG includes the protection and secure operation of the forwarding, control and management planes, and practices that support this. Documentation of operational issues, revision of existing operational security practices documents and proposals for new approaches and processes to solve operational challenges related to network security are in scope.
+The scope of the OPSEC WG includes the protection and secure operation of the forwarding, control and management planes, and practices that support this. Documentation of operational issues, including those arising from the deployment, migration, coexistence, and deprecation of security mechanisms and protocols is in scope. Revision of existing operational security practices documents and proposals for new approaches and processes to solve operational challenges related to network security are in scope. The WG will also provide guidelines for covering security operations considerations in specifications.
 
 ## Method
 
-The WG provide a standing venue for operational security experts and protocol developers to discuss, identify and document operational mitigations to current and emerging threats to inform protocol design and deployment.
+The WG provide a standing venue for operational security experts, implementers, operators, and protocol developers to discuss, identify, measure and document operational mitigations to current and emerging threats to inform protocol design and deployment and to inform protocol design, implementation, deployment, migration, and deprecation.
 
 The work may result in the publication of informational or BCP RFCs. Taxonomy or problem statement documents may provide a basis for such documents.
 
@@ -38,5 +38,10 @@ The OPSEC WG will not serve as a venue for raw threat intelligence sharing or re
 
 | Date     | Milestone                                                                  | Associated documents                        | Intended Track        |
 |----------|----------------------------------------------------------------------------|---------------------------------------------|:---------------------:|
-| xx 2026 | Submit xxx to the IESG |               | tbc       |
-| xx 2026 | Submit xxx to the IESG |               | tbc       |
+| March 2027 | WG Adoption of "Security Operations Fundamentals and Guidance" document |               | tbc       |
+| July 2027 | WG Adoption of "Best Practices for Coordinated Vulnerability Disclosure Processes" document  |               | tbc       |
+| July 2027 | WG Adoption of "A Taxonomy of Current Threats" document |               | tbc       |
+| March 2028 | Submission of "Security Operations Fundamentals and Guidance" document to the IESG for publication |               | tbc       |
+| July 2028 | Submission of "Best Practices for Coordinated Vulnerability Disclosure Processes" document to the IESG for publication.  |               | tbc       |
+| Dec 2028 | Submission of "A Taxonomy of Current Threats" document to the IESG for publication. |               | tbc       |
+
