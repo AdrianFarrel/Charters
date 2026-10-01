@@ -4,7 +4,7 @@ The OPSEC WG will document operational issues and best current practices with re
 
 ## Scope
 
-The scope of the OPSEC WG includes the protection and secure operation of the forwarding, control and management planes, and practices that support this. Documentation of operational issues, including those arising from the deployment, migration, coexistence, and deprecation of security mechanisms and protocols is in scope. Likewise, revision of existing operational security practices documents and proposals for new approaches and processes to solve operational challenges related to network security are in scope. The WG will also provide guidelines for covering security operations considerations in IETF specifications.
+The scope of the OPSEC WG includes the protection and secure operation of the forwarding, control and management planes, and practices that support this. Documentation of operational issues, including those arising from the deployment, migration, coexistence, and deprecation of security mechanisms and protocols is in scope. Likewise, revision of existing operational security practices documents and proposals for new approaches and processes to solve operational challenges related to network security are in scope. The WG will also provide guidelines for covering security operations considerations.
 
 ## Method
 
